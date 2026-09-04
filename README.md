@@ -1,6 +1,6 @@
 # Tang Nano 9K Projects
 
-FPGA projects for the [Tang Nano 9K](https://wiki.sipeed.com/hardware/en/tang/tang-nano-9k/nano-9k.html) (Gowin GW1NR-9C), built with the open-source [oss-cad-suite](https://github.com/YosysHQ/oss-cad-suite).
+Projects for the [Tang Nano 9K](https://wiki.sipeed.com/hardware/en/tang/tang-nano-9k/nano-9k.html) based on **Gowin GW1NR-9C FPGA**.
 
 ## Toolchain
 
