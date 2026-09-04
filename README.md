@@ -15,6 +15,12 @@ Every project follows the same four steps:
 3. **Packing** — `gowin_pack` produces the bitstream (`pack.fs`)
 4. **Flashing** — `openFPGALoader` writes the bitstream to the board
 
+## Projects
+
+| Project | Description |
+| ------- | ----------- |
+| [blink](blink/) | 6-LED chaser |
+
 ## License
 
 MIT
