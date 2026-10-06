@@ -11,7 +11,7 @@ A 6-LED running pattern driven by the on-board 27 MHz clock and the reset button
 
 ## Build & flash
 
-Assuming that [oss-cad-suite](https://github.com/YosysHQ/oss-cad-suite) toolchain is installed and on your path
+Assuming that [oss-cad-suite](https://github.com/YosysHQ/oss-cad-suite-build) toolchain is installed and on your path
 
 ```sh
 # Synthesize

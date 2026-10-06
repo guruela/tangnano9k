@@ -13,7 +13,7 @@ USB-UART bridge (115200 baud, 8N1), repeating about once per second.
 
 ## Build & flash
 
-Assuming that [oss-cad-suite](https://github.com/YosysHQ/oss-cad-suite) toolchain is installed and on your path
+Assuming that [oss-cad-suite](https://github.com/YosysHQ/oss-cad-suite-build) toolchain is installed and on your path
 
 ```sh
 # Synthesize

@@ -4,7 +4,7 @@ Projects for the [Tang Nano 9K](https://wiki.sipeed.com/hardware/en/tang/tang-na
 
 ## Toolchain
 
-- [oss-cad-suite](https://github.com/YosysHQ/oss-cad-suite)
+- [oss-cad-suite](https://github.com/YosysHQ/oss-cad-suite-build)
 
 ## Toolchain workflow
 
