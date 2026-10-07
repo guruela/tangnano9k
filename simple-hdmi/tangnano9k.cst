@@ -1,0 +1,21 @@
+IO_LOC "tmds_d_p[0]" 71;
+IO_LOC "tmds_d_n[0]" 70;
+IO_PORT "tmds_d_p[0]" PULL_MODE=NONE DRIVE=8;
+IO_PORT "tmds_d_n[0]" PULL_MODE=NONE DRIVE=8;
+IO_LOC "tmds_d_p[1]" 73;
+IO_LOC "tmds_d_n[1]" 72;
+IO_PORT "tmds_d_p[1]" PULL_MODE=NONE DRIVE=8;
+IO_PORT "tmds_d_n[1]" PULL_MODE=NONE DRIVE=8;
+IO_LOC "tmds_d_p[2]" 75;
+IO_LOC "tmds_d_n[2]" 74;
+IO_PORT "tmds_d_p[2]" PULL_MODE=NONE DRIVE=8;
+IO_PORT "tmds_d_n[2]" PULL_MODE=NONE DRIVE=8;
+IO_LOC "tmds_clk_p" 69;
+IO_LOC "tmds_clk_n" 68;
+IO_PORT "tmds_clk_p" PULL_MODE=NONE DRIVE=8;
+IO_PORT "tmds_clk_n" PULL_MODE=NONE DRIVE=8;
+
+IO_LOC "resetn" 4;
+IO_PORT "resetn" PULL_MODE=UP;
+IO_LOC "clk" 52;
+IO_PORT "clk" IO_TYPE=LVCMOS33 PULL_MODE=UP;
