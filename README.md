@@ -21,6 +21,7 @@ Every project follows the same four steps:
 | ------- | ----------- |
 | [blink](blink/) | 6-LED chaser |
 | [simple-uart](simple-uart/) | Simple 8N1 UART |
+| [simple-hdmi](simple-hdmi) | Simple HDMI output |
 
 ## License
 
